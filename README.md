@@ -2,10 +2,10 @@
 -open terminal in '.env' file location
 -run commands:
 
-# --configure utility--
+# configure utility
     source .env
 
-# --examples of usage--
+# examples of usage
 -case simple run
     timeitout ping 8.8.8.8
 
