@@ -7,13 +7,13 @@
 
 # examples of usage
 -case simple run
-    timeitout ping 8.8.8.8
+timeitout ping 8.8.8.8
 
 -case parameter run
-    timeitout -t 2.3456 ping 8.8.8.8
+timeitout -t 2.3456 ping 8.8.8.8
 
 -case child parameter present check 'err.log' file
-    timeitout -t 2.3456 ping 8.8.8.8
+timeitout -t 2.3456 ping 8.8.8.8
 
 -case child parameter not present check 'out.log' file
-    timeitout -t 2.3567 ping
+timeitout -t 2.3567 ping
