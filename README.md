@@ -7,10 +7,10 @@
 
 # examples of usage
  - case simple run
-   - timeitout ping 8.8.8.8
+    - timeitout ping 8.8.8.8
 
  - case parameter run
-   - timeitout -t 2.3456 ping 8.8.8.8__
+   - timeitout -t 2.3456 ping 8.8.8.8
 
  - case child parameter present check 'err.log' file
    - timeitout -t 2.3456 ping 8.8.8.8
