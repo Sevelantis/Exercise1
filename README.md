@@ -1,6 +1,10 @@
 # how to run:
- - open terminal in '.env' file location
- - run commands:
+```
+git clone https://github.com/Sevelantis/Exercise1
+```
+
+open terminal in '.env' file location
+run commands:
 
 # configure utility
 ```
