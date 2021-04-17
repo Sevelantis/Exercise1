@@ -3,7 +3,7 @@
  - run commands:
 
 # configure utility
-``source .env``
+```source .env```
 
 # examples of usage
 case simple run
