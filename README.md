@@ -1,4 +1,4 @@
-# how to run:
+# how to run on Linux
 run commands:
 ```
 git clone https://github.com/Sevelantis/Exercise1
